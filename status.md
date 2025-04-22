@@ -2,15 +2,11 @@
 
 #### Your name
 
-TODO
-
-#### Your section leader's name
-
-TODO
+Pranavi Gutta
 
 #### Project title
 
-TODO
+Meal Matcher
 
 ***
 
@@ -18,11 +14,11 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+So far I have created the excel sheeet with all of the data needed for the project. I have also begun coding the project.
 
 #### What have you not done for your project yet?
 
-TODO
+I still need to finish coding the project and figure out if there are any changes I need to add.
 
 #### What problems, if any, have you encountered?
 
